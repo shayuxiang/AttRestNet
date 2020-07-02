@@ -1,0 +1,9 @@
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\bin\Debug\netcoreapp3.1\AttRest.deps.json
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\bin\Debug\netcoreapp3.1\AttRest.dll
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\obj\Debug\netcoreapp3.1\AttRest.csprojAssemblyReference.cache
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\obj\Debug\netcoreapp3.1\AttRest.AssemblyInfoInputs.cache
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\obj\Debug\netcoreapp3.1\AttRest.AssemblyInfo.cs
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\bin\Debug\netcoreapp3.1\AttRest.pdb
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\obj\Debug\netcoreapp3.1\AttRest.csproj.CoreCompileInputs.cache
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\obj\Debug\netcoreapp3.1\AttRest.dll
+C:\Users\shayuxiang\source\repos\AttRest\AttRest\obj\Debug\netcoreapp3.1\AttRest.pdb

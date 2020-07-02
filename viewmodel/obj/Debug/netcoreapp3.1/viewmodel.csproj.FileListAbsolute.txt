@@ -1,0 +1,12 @@
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\viewmodel.deps.json
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\viewmodel.dll
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\viewmodel.pdb
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csprojAssemblyReference.cache
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.AssemblyInfoInputs.cache
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.AssemblyInfo.cs
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csproj.CoreCompileInputs.cache
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.dll
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.pdb
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\AttRest.dll
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\AttRest.pdb
+C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csproj.CopyComplete
