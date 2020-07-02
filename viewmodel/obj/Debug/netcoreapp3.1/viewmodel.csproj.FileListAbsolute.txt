@@ -10,3 +10,15 @@ C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewm
 C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\AttRest.dll
 C:\Users\shayuxiang\source\repos\AttRest\viewmodel\bin\Debug\netcoreapp3.1\AttRest.pdb
 C:\Users\shayuxiang\source\repos\AttRest\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csproj.CopyComplete
+E:\workspaces\AttRestNet\viewmodel\bin\Debug\netcoreapp3.1\viewmodel.deps.json
+E:\workspaces\AttRestNet\viewmodel\bin\Debug\netcoreapp3.1\viewmodel.dll
+E:\workspaces\AttRestNet\viewmodel\bin\Debug\netcoreapp3.1\viewmodel.pdb
+E:\workspaces\AttRestNet\viewmodel\bin\Debug\netcoreapp3.1\AttRest.dll
+E:\workspaces\AttRestNet\viewmodel\bin\Debug\netcoreapp3.1\AttRest.pdb
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csprojAssemblyReference.cache
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.AssemblyInfoInputs.cache
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.AssemblyInfo.cs
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csproj.CoreCompileInputs.cache
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.csproj.CopyComplete
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.dll
+E:\workspaces\AttRestNet\viewmodel\obj\Debug\netcoreapp3.1\viewmodel.pdb
