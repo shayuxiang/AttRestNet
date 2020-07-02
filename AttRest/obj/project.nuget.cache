@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BgrmyIBORUCMJR4j17PUBFJkb+fGUFKrA9/wbnjesxGOsKIocuZ99xmMuPpuCdKEBlTLLybdPDdHiJWZpgsouw==",
+  "dgSpecHash": "74GV0qcqA6F2N444dUJ2712s6QPL7d4Uc9Qni688KnySM4qfSq4Uf/XRhwznxElIrafCMdQ3aKxTPWhllwbqQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj",
+  "projectFilePath": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shayuxiang\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\shayuxiang\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

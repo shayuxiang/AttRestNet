@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj",
+      "projectUniqueName": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj",
       "projectName": "AttRest",
-      "projectPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj",
+      "projectPath": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj",
       "packagesPath": "C:\\Users\\shayuxiang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\obj\\",
+      "outputPath": "E:\\workspaces\\AttRestNet\\AttRest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shayuxiang\\AppData\\Roaming\\NuGet\\NuGet.Config",

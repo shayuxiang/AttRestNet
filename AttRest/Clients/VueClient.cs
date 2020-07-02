@@ -13,6 +13,10 @@ namespace AttRest.Clients
         //表示代码的域
         private string Area { get; set; } = "";
 
+        /// <summary>
+        /// 生成vue代码
+        /// </summary>
+        /// <returns></returns>
         public string ToCode()
         {
             var api = ToAPI();

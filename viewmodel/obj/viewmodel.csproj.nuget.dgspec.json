@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\viewmodel\\viewmodel.csproj": {}
+    "E:\\workspaces\\AttRestNet\\viewmodel\\viewmodel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj": {
+    "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj",
+        "projectUniqueName": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj",
         "projectName": "AttRest",
-        "projectPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj",
+        "projectPath": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj",
         "packagesPath": "C:\\Users\\shayuxiang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\obj\\",
+        "outputPath": "E:\\workspaces\\AttRestNet\\AttRest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shayuxiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\viewmodel\\viewmodel.csproj": {
+    "E:\\workspaces\\AttRestNet\\viewmodel\\viewmodel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\viewmodel\\viewmodel.csproj",
+        "projectUniqueName": "E:\\workspaces\\AttRestNet\\viewmodel\\viewmodel.csproj",
         "projectName": "viewmodel",
-        "projectPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\viewmodel\\viewmodel.csproj",
+        "projectPath": "E:\\workspaces\\AttRestNet\\viewmodel\\viewmodel.csproj",
         "packagesPath": "C:\\Users\\shayuxiang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\viewmodel\\obj\\",
+        "outputPath": "E:\\workspaces\\AttRestNet\\viewmodel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shayuxiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj": {
-                "projectPath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\AttRest\\AttRest.csproj"
+              "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj": {
+                "projectPath": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj"
               }
             }
           }

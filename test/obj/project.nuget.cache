@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "14Ulze8TOC2Ya/96COEu1NpnNH8DpuO745moY/JgMF63MhstmMDFHGpxt+PRhSyGvYnuoA6DRamh7Oxrto9zEw==",
+  "dgSpecHash": "sBQsQBNZgFGPWgadWlEeKbMdVVkhWXyyDYugi7APaiBsdSSl5MPnSWBr3AUISl7zwjYRT3wQcerW2AKSkT3Eew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shayuxiang\\source\\repos\\AttRest\\test\\test.csproj",
+  "projectFilePath": "E:\\workspaces\\AttRestNet\\test\\test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shayuxiang\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\shayuxiang\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
