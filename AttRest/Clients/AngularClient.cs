@@ -147,10 +147,11 @@ namespace AttRest.Clients
                         data = "{}";
                     }
                     var methodRequestMethod = method.RequestMethod.ToLower();
+                    var dataType = methodRequestMethod.ToLower() == "get" ? "param" : "data";
                     //API方法构建
                     var angular_method = $@"    {method.ActionName}:function({_params}callback){{
                     axios.{methodRequestMethod}({link},{{
-                        param:{data}
+                        {dataType}:{data}
                     }}).catch(function(error){{
                         if(that.ErrorCatch!=null && that.ErrorCatch!=undefined){{
                             that.ErrorCatch(error,""{coll.First().ControllerName.Replace("Controller", string.Empty)}-{method.ActionName}"");

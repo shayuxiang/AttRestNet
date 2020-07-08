@@ -139,12 +139,13 @@ namespace AttRest.Clients
                         data = "{}";
                     }
                     var methodRequestMethod = method.RequestMethod.ToLower();
+                    var dataType = methodRequestMethod.ToLower() == "get" ? "param" : "data";
                     //API方法构建
                     var jq_method = $@"    {method.ActionName}:function({_params}callback){{
                     $.ajax({{
                         method:'{methodRequestMethod}',
                         url:{link},
-                        param:{data}
+                        {dataType}:{data}
                     }}).then(function(res){{
                         callback(res);
                     }})}},";
