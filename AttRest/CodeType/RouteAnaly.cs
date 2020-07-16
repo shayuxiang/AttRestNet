@@ -68,10 +68,10 @@ namespace AttRest.CodeType
                         HasRewrite = true;
                     }
                     Link = $@"/{actionRouteFilter}";
-                }        
+                }
             }
             //匹配只有controller的情况
-           else if (Regex.IsMatch(routeFilter, @"([a-z A-Z 0-9]*\/)*\[controller\]$"))
+            else if (Regex.IsMatch(routeFilter, @"([a-z A-Z 0-9]*\/)*\[controller\]$"))
             {
                 //该匹配到controller,则只有一个方法的匹配
                 Link = routeFilter.Replace("[controller]", $@"{controllerName}");//$@"/{controllerName}";
@@ -91,6 +91,9 @@ namespace AttRest.CodeType
                         Link += "/" + actionRouteFilter.Replace("[action]", $@"{actionName}");
                     }
                 }
+            }
+            else {
+                Link = routeFilter.Replace("[controller]", $@"{controllerName}").Replace("[action]", $@"{actionName}");
             }
             //加上开头的斜杠,以及区域
             if (!string.IsNullOrEmpty(Link) && !Link.StartsWith("/")) {
