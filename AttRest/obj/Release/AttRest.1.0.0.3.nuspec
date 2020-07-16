@@ -3,11 +3,13 @@
   <metadata>
     <id>AttRest</id>
     <version>1.0.0.3</version>
-    <authors>AttRest</authors>
-    <owners>AttRest</owners>
+    <authors>shayuxiang</authors>
+    <owners>shayuxiang</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <icon>att.png</icon>
+    <projectUrl>https://github.com/shayuxiang/AttRestNet.git</projectUrl>
     <description>AttRest C#版本</description>
+    <releaseNotes>RestAPI本地映射类库(测试)</releaseNotes>
     <copyright>shayuxiang</copyright>
     <dependencies>
       <group targetFramework=".NETCoreApp3.1">

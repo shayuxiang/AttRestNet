@@ -2,12 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyVersion>1.0.0.2</AssemblyVersion>
+    <AssemblyVersion>1.0.0.3</AssemblyVersion>
     <FileVersion>1.0.0.2</FileVersion>
     <Version>1.0.0.3</Version>
     <Description>AttRest C#版本</Description>
     <Copyright>shayuxiang</Copyright>
     <PackageIcon>att.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/shayuxiang/AttRestNet.git</PackageProjectUrl>
+    <Authors>shayuxiang</Authors>
+    <PackageReleaseNotes>RestAPI本地映射类库(测试)</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
