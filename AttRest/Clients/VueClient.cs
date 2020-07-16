@@ -140,7 +140,7 @@ namespace AttRest.Clients
                         data = "{}";
                     }
                     var methodRequestMethod = method.RequestMethod.ToLower();
-                    var dataType = methodRequestMethod.ToLower() == "get" ? "param" : "data";
+                    var dataType = methodRequestMethod.ToLower() == "get" ? "params" : "data";
                     //API方法构建
                     var vue_method = $@"    {method.ActionName}:function({_params}callback){{
                     axios.{methodRequestMethod}({link},{{
