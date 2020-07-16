@@ -105,7 +105,7 @@ namespace AttRest.Clients
         /// <returns></returns>
         private string ToAPI()
         {
-            var Host = "https://localhost:5001"; //临时测试使用
+            var Host = NetCoreExt.Host; //临时测试使用
             IEnumerable<IGrouping<string, ApiModel>> query = NetCoreExt.ApiEnumerable.ApiModels.GroupBy(api => api.ControllerName);
             var react_api = "";
             var react_api_list = "";

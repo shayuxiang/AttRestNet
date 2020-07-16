@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AttRest</id>
+    <version>1.0.0.2</version>
+    <authors>AttRest</authors>
+    <owners>AttRest</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>att.png</icon>
+    <description>AttRest C#版本</description>
+    <copyright>shayuxiang</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\workspaces\AttRestNet\AttRest\bin\Release\netcoreapp3.1\AttRest.dll" target="lib\netcoreapp3.1\AttRest.dll" />
+    <file src="C:\Users\shayuxiang\Pictures\att.png" target="att.png" />
+  </files>
+</package>

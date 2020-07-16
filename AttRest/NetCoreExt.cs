@@ -13,6 +13,7 @@ namespace AttRest
 {
     public static class NetCoreExt
     {
+        public static string Host { get; set; }
         /// <summary>
         /// 当前的接口列表
         /// </summary>
@@ -146,6 +147,10 @@ namespace AttRest
                     }
                 }
             }
+        }
+
+        public static void AddAttRestBaseHost(this IServiceCollection services, string host) {
+            Host = host;
         }
 
         /// <summary>

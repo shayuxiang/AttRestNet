@@ -1,0 +1,9 @@
+E:\workspaces\AttRestNet\AttRest\bin\Release\netcoreapp3.1\AttRest.deps.json
+E:\workspaces\AttRestNet\AttRest\bin\Release\netcoreapp3.1\AttRest.dll
+E:\workspaces\AttRestNet\AttRest\bin\Release\netcoreapp3.1\AttRest.pdb
+E:\workspaces\AttRestNet\AttRest\obj\Release\netcoreapp3.1\AttRest.csprojAssemblyReference.cache
+E:\workspaces\AttRestNet\AttRest\obj\Release\netcoreapp3.1\AttRest.AssemblyInfoInputs.cache
+E:\workspaces\AttRestNet\AttRest\obj\Release\netcoreapp3.1\AttRest.AssemblyInfo.cs
+E:\workspaces\AttRestNet\AttRest\obj\Release\netcoreapp3.1\AttRest.csproj.CoreCompileInputs.cache
+E:\workspaces\AttRestNet\AttRest\obj\Release\netcoreapp3.1\AttRest.dll
+E:\workspaces\AttRestNet\AttRest\obj\Release\netcoreapp3.1\AttRest.pdb
