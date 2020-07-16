@@ -3874,7 +3874,7 @@
     "C:\\Users\\shayuxiang\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "restore": {
       "projectUniqueName": "E:\\workspaces\\AttRestNet\\AttRest\\AttRest.csproj",
       "projectName": "AttRest",

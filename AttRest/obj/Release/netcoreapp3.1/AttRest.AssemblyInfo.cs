@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("shayuxiang")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("AttRest C#版本")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.2")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttRest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttRest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.2")]

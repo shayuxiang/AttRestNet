@@ -1025,7 +1025,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "AttRest/1.0.0.2": {
+      "AttRest/1.0.0.3": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -3877,7 +3877,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "AttRest/1.0.0.2": {
+    "AttRest/1.0.0.3": {
       "type": "project",
       "path": "../AttRest/AttRest.csproj",
       "msbuildProject": "../AttRest/AttRest.csproj"
@@ -3885,7 +3885,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AttRest >= 1.0.0.2"
+      "AttRest >= 1.0.0.3"
     ]
   },
   "packageFolders": {
