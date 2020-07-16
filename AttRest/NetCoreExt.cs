@@ -13,7 +13,7 @@ namespace AttRest
 {
     public static class NetCoreExt
     {
-        public static string Host { get; set; }
+        public static string Host { get; set; } = "http://localhost:5000";
         /// <summary>
         /// 当前的接口列表
         /// </summary>
