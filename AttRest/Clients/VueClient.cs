@@ -140,11 +140,16 @@ namespace AttRest.Clients
                         data = "{}";
                     }
                     var methodRequestMethod = method.RequestMethod.ToLower();
+                    //头部，暂时的方法
+                    var headers = methodRequestMethod.ToLower() == "get" ? "":@" headers:{{ 'Content-Type': 'application/x-www-form-urlencoded' }}";
                     var dataType = methodRequestMethod.ToLower() == "get" ? "params" : "data";
                     //API方法构建
                     var vue_method = $@"    {method.ActionName}:function({_params}callback){{
-                    axios.{methodRequestMethod}({link},{{
-                        {dataType}:{data}
+                    axios({{
+                        ""method"":'{methodRequestMethod}'
+                        ""url"":{link}
+                        {dataType}:{data},
+                        {headers}
                     }}).catch(function(error){{
                         if(that.ErrorCatch!=null && that.ErrorCatch!=undefined){{
                             that.ErrorCatch(error,""${coll.First().ControllerName.Replace("Controller", string.Empty)}-{method.ActionName}"");
